@@ -1,0 +1,15 @@
+{
+    "name": "mi-lambda-funcion",
+    "version": "1.0.0",
+    "description": "Función Lambda para despliegue desde Azure DevOps",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Tu Nombre",
+    "license": "ISC",
+    "dependencies": {
+      "aws-sdk": "^2.1045.0"
+    }
+  }
